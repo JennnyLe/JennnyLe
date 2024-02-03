@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Jenny! 👋
 
 • 📚 I’m currently studying Software Development and Network Engineering at Sheridan College <br>
 • 🤔 I’m looking for help with Java <br>
